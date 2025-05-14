@@ -1,1 +1,1 @@
-# polnash_solut
+# polnash solutions
